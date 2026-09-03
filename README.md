@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:110E08,55:23231F,100:CCFF00&height=230&section=header&text=phosphenq&fontSize=76&fontColor=FFFFFF&fontAlignY=36&desc=typescript%20%7C%20viem%20%7C%20agent%20harnesses%20%7C%20on-chain%20forensics&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="phosphenq">
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=CCFF00&center=true&vCenter=true&width=640&height=48&lines=sniper+terminal+for+Robinhood+Chain;agent+harnesses+that+run+the+night+shift;tools+that+show+their+receipts" alt="typing">
-</div>
+<img src="./header.png" width="100%" alt="phosphenq: typescript, viem, agent harnesses, on-chain forensics">
 
 <div align="center">
   <a href="https://x.com/phosphenq"><img src="https://img.shields.io/badge/x-%40phosphenq-110E08?style=for-the-badge&logo=x&logoColor=CCFF00" alt="x"></a>
@@ -32,7 +28,6 @@ const phosphenq = {
   <img src="https://img.shields.io/badge/viem-110E08?style=for-the-badge&logo=ethereum&logoColor=CCFF00" alt="viem">
   <img src="https://img.shields.io/badge/Python-110E08?style=for-the-badge&logo=python&logoColor=CCFF00" alt="Python">
   <img src="https://img.shields.io/badge/Solidity-110E08?style=for-the-badge&logo=solidity&logoColor=CCFF00" alt="Solidity">
-  <img src="https://img.shields.io/badge/Playwright-110E08?style=for-the-badge&logo=playwright&logoColor=CCFF00" alt="Playwright">
   <img src="https://img.shields.io/badge/FFmpeg-110E08?style=for-the-badge&logo=ffmpeg&logoColor=CCFF00" alt="FFmpeg">
   <img src="https://img.shields.io/badge/Docker-110E08?style=for-the-badge&logo=docker&logoColor=CCFF00" alt="Docker">
   <img src="https://img.shields.io/badge/Git-110E08?style=for-the-badge&logo=git&logoColor=CCFF00" alt="Git">
@@ -54,15 +49,18 @@ const phosphenq = {
 
 <a href="https://x.com/phosphenq"><img src="./hero.png" width="100%" alt="bodkin, the sniper terminal for pons v2 on Robinhood Chain"></a>
 
-| Measured on Robinhood Chain, 2026-09-03 | |
-|---|---|
-| opening tax on every pons v2 launch | **99 %**, decaying to zero in **3 s** |
-| launches / graduations in 24 h | **24 462** / **559** |
-| entry after the tax decays | **0.19 %** tax, **188 ms** after detection |
-| creator fees one token paid its recipient in 9 h | **15.44 ETH** |
+<div align="center">
+  <img src="https://img.shields.io/badge/opening%20tax-99%25%20%E2%86%92%200%20in%203%20s-CCFF00?style=for-the-badge&labelColor=110E08" alt="opening tax">
+  <img src="https://img.shields.io/badge/launches%20%2F%2024%20h-24%20462-CCFF00?style=for-the-badge&labelColor=110E08" alt="launches">
+  <img src="https://img.shields.io/badge/graduations%20%2F%2024%20h-559-CCFF00?style=for-the-badge&labelColor=110E08" alt="graduations">
+  <img src="https://img.shields.io/badge/entry-0.19%25%20tax%2C%20188%20ms-CCFF00?style=for-the-badge&labelColor=110E08" alt="entry">
+  <img src="https://img.shields.io/badge/fees%20one%20token%20paid%20in%209%20h-15.44%20ETH-CCFF00?style=for-the-badge&labelColor=110E08" alt="fees">
+</div>
+
+<p align="center"><sub>measured on Robinhood Chain, 2026-09-03</sub></p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF00,45:23231F,100:110E08&height=120&section=footer" width="100%" alt="">
+<img src="./footer.png" width="100%" alt="">
