@@ -58,7 +58,7 @@ const phosphenq = {
   <img src="https://img.shields.io/badge/launches%20%2F%2024%20h-24%20462-CCFF00?style=for-the-badge&labelColor=110E08" alt="launches">
   <img src="https://img.shields.io/badge/graduations%20%2F%2024%20h-559-CCFF00?style=for-the-badge&labelColor=110E08" alt="graduations">
   <img src="https://img.shields.io/badge/entry-0.19%25%20tax%2C%20188%20ms-CCFF00?style=for-the-badge&labelColor=110E08" alt="entry">
-  <img src="https://img.shields.io/badge/fees%20one%20token%20paid%20in%209%20h-15.44%20ETH-CCFF00?style=for-the-badge&labelColor=110E08" alt="fees">
+  <img src="https://img.shields.io/badge/launch%20farm%20rule-3%20twins%20in%2030%20min-CCFF00?style=for-the-badge&labelColor=110E08" alt="launch farm rule">
 </div>
 
 <p align="center"><sub>measured on Robinhood Chain, 2026-09-03</sub></p>
