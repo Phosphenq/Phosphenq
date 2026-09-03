@@ -22,17 +22,19 @@ const phosphenq = {
 
 ### 🧰 Stack
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-110E08?style=for-the-badge&logo=typescript&logoColor=CCFF00" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-110E08?style=for-the-badge&logo=nodedotjs&logoColor=CCFF00" alt="Node.js">
   <img src="https://img.shields.io/badge/viem-110E08?style=for-the-badge&logo=ethereum&logoColor=CCFF00" alt="viem">
   <img src="https://img.shields.io/badge/Python-110E08?style=for-the-badge&logo=python&logoColor=CCFF00" alt="Python">
   <img src="https://img.shields.io/badge/Solidity-110E08?style=for-the-badge&logo=solidity&logoColor=CCFF00" alt="Solidity">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/FFmpeg-110E08?style=for-the-badge&logo=ffmpeg&logoColor=CCFF00" alt="FFmpeg">
   <img src="https://img.shields.io/badge/Docker-110E08?style=for-the-badge&logo=docker&logoColor=CCFF00" alt="Docker">
   <img src="https://img.shields.io/badge/Git-110E08?style=for-the-badge&logo=git&logoColor=CCFF00" alt="Git">
   <img src="https://img.shields.io/badge/Claude%20Code-110E08?style=for-the-badge&logo=claude&logoColor=CCFF00" alt="Claude Code">
-</div>
+</p>
 
 ### 🛠 What I work on
 
