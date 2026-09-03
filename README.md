@@ -49,7 +49,9 @@ const phosphenq = {
 
 ### 🏹 Now shipping
 
-<a href="https://x.com/phosphenq"><img src="./hero.png" width="100%" alt="bodkin, the sniper terminal for pons v2 on Robinhood Chain"></a>
+<a href="https://github.com/Phosphenq/bodkin"><img src="./hero.png" width="100%" alt="bodkin, the sniper terminal for pons v2 on Robinhood Chain"></a>
+
+<p align="center"><a href="https://github.com/Phosphenq/bodkin"><img src="https://img.shields.io/badge/github.com%2FPhosphenq%2Fbodkin-open%20the%20repo-CCFF00?style=for-the-badge&logo=github&logoColor=110E08&labelColor=110E08" alt="bodkin repo"></a></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/opening%20tax-99%25%20%E2%86%92%200%20in%203%20s-CCFF00?style=for-the-badge&labelColor=110E08" alt="opening tax">
